@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0914a53ae1a0f602be39f9dbc022353820179076 Lance Terrill <lance.terrill@gmail.com> 1606708212 -0700	commit (initial): first commit
+0914a53ae1a0f602be39f9dbc022353820179076 0000000000000000000000000000000000000000 Lance Terrill <lance.terrill@gmail.com> 1606708219 -0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 0914a53ae1a0f602be39f9dbc022353820179076 Lance Terrill <lance.terrill@gmail.com> 1606708219 -0700	Branch: renamed refs/heads/master to refs/heads/main
+0914a53ae1a0f602be39f9dbc022353820179076 65be1afe0765d628ecf0839377d666c3a9325ff4 Lance Terrill <lance.terrill@gmail.com> 1606708642 -0700	commit: 2nd
+65be1afe0765d628ecf0839377d666c3a9325ff4 65be1afe0765d628ecf0839377d666c3a9325ff4 Lance Terrill <lance.terrill@gmail.com> 1606709831 -0700	checkout: moving from main to master
